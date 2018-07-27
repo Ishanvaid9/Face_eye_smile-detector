@@ -13,4 +13,4 @@ Import OpenCV as ``` cv2 ``` now get the cascade for Face, Eye, Smile and use in
 <br> 
 ``` haarcascade_smile.xml ```
 
-<img src=https://github.com/Ishanvaid9/Face_eye_smile-detector/blob/master/zoom_0.gif>
+<img src=https://github.com/Ishanvaid9/Face_eye_smile-detector/blob/master/example.gif>
